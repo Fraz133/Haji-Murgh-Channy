@@ -1,0 +1,52 @@
+
+    body{
+        margin-bottom: 0;
+    }
+    .d-block{
+        border: none;
+        border-radius: 0;
+        margin-right: 30px;
+    }
+    .row{
+        margin-top: 35px;
+    }
+    .second-svg{
+        padding: 5px;
+        height: 35px;
+    }
+    .Haji {
+      display: inline-block;
+      margin-bottom: 40px;
+      color:#ffc107;
+      font-family: "Playwrite AU QLD", cursive;
+    }
+    
+    .features{
+        padding-top: 30px;
+        padding-left: 40px;
+    }
+    .top-body{
+        margin-left: 20px;
+    }
+    .fw-normal{
+        font-weight: 400;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .fs-5{
+        font-size: 1.25rem;
+        text-align: center;
+        width:50%;
+        margin: 0 auto;
+    }
+    .pricing-card {
+        width: 90%; /* Adjust this value as needed */
+        margin: auto;
+    }
+    .card-body {
+        padding: 1rem; /* Adjust this value as needed */
+    }
+    .card {
+        min-height: 350px; /* Adjust this value as needed */
+    }
+  
